@@ -1,0 +1,6 @@
+*.d
+*.o
+*.bin
+*.json
+Cargo.lock
+target/
