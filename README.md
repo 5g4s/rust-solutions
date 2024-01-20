@@ -1,0 +1,1 @@
+[Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://github.com/kyclark/command-line-rust/tree/main)
